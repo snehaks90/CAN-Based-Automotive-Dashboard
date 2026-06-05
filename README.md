@@ -59,7 +59,7 @@ The system consists of three ECUs communicating through a CAN bus network to exc
 
 ## Sample Execution
 
-![Sample Output](Whastapp Ima.png)
+![Sample Output](Can_dashboard.jpeg)
 ## Author
 
 Sneha KS
